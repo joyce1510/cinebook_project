@@ -1,0 +1,6 @@
+{
+  "name": "CineBook - Movie Ticket Booking",
+  "description": "Interactive movie ticket booking platform featuring real-time seat reservation, cinema showtimes, language filters, and instant printable tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
